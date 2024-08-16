@@ -2,7 +2,7 @@
 
 ## Cloud/DevOps/Platform Engineer | 6 x AWS Certified | IaC Enthusiast ⚡
 
-I'm a T-Shape Cloud/Data/Solutions Engineer/Architect with over 20 years of global experience in cloud/distributed architecture, DevSecOps, and Agile digital transformation. I'm also a purpose-driven technical leader with a proven track record of developing and delivering innovative, secure, and scalable enterprise business solutions and services, as well as leading agile digital transformation in Japan, the United States, and ASEAN.
+I'm a T-Shaped Cloud/Data/Solutions Engineer/Architect with over 20 years of global experience in Cloud, DevSecOps, and Agile digital transformation. I'm also a purpose-driven technical leader with a proven track record of developing and delivering innovative, secure, and scalable enterprise business solutions and services, as well as leading agile digital transformation in Japan, the United States, and ASEAN.
 
 * 🔧 Experience Software Engineering with **Python**, Java, and NodeJS/TypeScripts programming.
 * ☁️ DevOps/Platform Engineering: Proficiency with **AWS**, Azure, and GCP.
