@@ -58,4 +58,9 @@ I'm a T-Shaped Cloud/Data/Solutions Engineer/Architect with over 20 years of glo
 
 Please explore my repositories and contact me if you have any collaborations or questions. Let's work together to build awesome things! 🚀
 
+* [DevOps Roadmap](https://roadmap.sh/devops?s=66be954091320df4bdfc16b7)
+* [AWS Roadmap](https://roadmap.sh/aws?s=66be954091320df4bdfc16b7)
+* [AWS Best Practices](https://roadmap.sh/best-practices/aws?s=66be954091320df4bdfc16b7)
+* [Terraform Roadmap](https://roadmap.sh/terraform?s=66be954091320df4bdfc16b7)
+
 [![roadmap.sh](https://roadmap.sh/card/tall/66be954091320df4bdfc16b7?variant=dark)](https://roadmap.sh)
