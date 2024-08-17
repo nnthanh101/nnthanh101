@@ -62,5 +62,4 @@ Please explore my repositories and contact me if you have any collabo
 * [AWS Roadmap](https://roadmap.sh/aws?s=66be954091320df4bdfc16b7)
 * [AWS Best Practices](https://roadmap.sh/best-practices/aws?s=66be954091320df4bdfc16b7)
 * [Terraform Roadmap](https://roadmap.sh/terraform?s=66be954091320df4bdfc16b7)
-
-[![roadmap.sh](https://roadmap.sh/card/tall/66be954091320df4bdfc16b7?variant=dark)](https://roadmap.sh)
+* [roadmap.sh](https://roadmap.sh/card/tall/66be954091320df4bdfc16b7?variant=dark)
