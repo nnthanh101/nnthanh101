@@ -1,0 +1,12 @@
+[filter "lfs"]
+        clean = git-lfs clean -- %f
+        smudge = git-lfs smudge -- %f
+        process = git-lfs filter-process
+        required = true
+[user]
+        name = @nnthanh101
+        email = 40840164+nnthanh101@users.noreply.github.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
