@@ -81,6 +81,8 @@ plugins=(
   zsh-completions
   zsh-autosuggestions
   zsh-syntax-highlighting
+  terraform
+  aws
 )
 
 fpath+=${ZSH_CUSTOM:-${ZSH:-~/.oh-my-zsh}/custom}/plugins/zsh-completions/src
@@ -134,5 +136,8 @@ alias gcm='git commit -m'
 alias gpsh='git push'
 alias gss='git status -s'
 alias gs='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
+
+# get machine's ip address
+alias ip="ipconfig getifaddr en0"
 
 source ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
