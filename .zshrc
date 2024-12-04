@@ -149,3 +149,7 @@ export NVM_DIR="$HOME/.nvm"
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
 echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
+
+alias t=task
+alias tl='task --list-all'
+alias tf=terraform
