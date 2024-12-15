@@ -6,16 +6,16 @@
   "image": "docker.io/nnthanh101/python:latest",
   "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
   "workspaceFolder": "/workspace",
-  "mounts": [
-    "source=${localEnv:HOME}${localEnv:USERPROFILE}/.aws,target=/workspace/.aws,type=bind,consistency=cached,readonly",
-  ],
+  // "mounts": [
+  //   "source=${localEnv:HOME}${localEnv:USERPROFILE}/.aws,target=/workspace/.aws,type=bind,consistency=cached,readonly",
+  // ],
   "remoteUser": "os",
   // Features to add to the dev container. More info: https://containers.dev/features.
   // "features": {},
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
   "forwardPorts": [
-    // 5000,
-    8080,
+    8000,
+    // 8080,
     8888
   ],
   "portsAttributes": {
