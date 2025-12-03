@@ -52,6 +52,12 @@ I'm a T-Shaped Cloud/Data/Solutions Engineer/Architect with over 20 years of glo
 - [AWS Certified Developer – Associate](https://www.credly.com/badges/0cd8bf92-9c67-4a34-b351-70399fb856d0)
 - [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/4052f053-7c3c-425c-9024-75d638d43c80)
 
+---
+
+* [ ] [AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
+* [ ] [AWS Certified Security - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
+
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnthanh101&show_icons=true&theme=radical)
