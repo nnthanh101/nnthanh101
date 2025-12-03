@@ -45,12 +45,12 @@ I'm a T-Shaped Cloud/Data/Solutions Engineer/Architect with over 20 years of glo
 
 ### 🏆 [Certifications](https://www.credly.com/users/nnthanh101) 🎖️
 
-- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/ff245542-451d-48aa-b3bc-55dbefb566db)
-- [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/74cf4de0-49f4-4725-b64f-eb325ade9431)
-- [AWS Certified Data Analytics – Specialty](https://www.credly.com/badges/b16141c0-696f-4fd5-8a9e-aab8e7a3e6dc)
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e6156b7f-09bd-4743-8dff-01e3cec9bc2d)
-- [AWS Certified Developer – Associate](https://www.credly.com/badges/0cd8bf92-9c67-4a34-b351-70399fb856d0)
-- [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/4052f053-7c3c-425c-9024-75d638d43c80)
+- [x] [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/ff245542-451d-48aa-b3bc-55dbefb566db)
+- [x] [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/74cf4de0-49f4-4725-b64f-eb325ade9431)
+- [x] [AWS Certified Data Analytics – Specialty](https://www.credly.com/badges/b16141c0-696f-4fd5-8a9e-aab8e7a3e6dc)
+- [x] [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/e6156b7f-09bd-4743-8dff-01e3cec9bc2d)
+- [x] [AWS Certified Developer – Associate](https://www.credly.com/badges/0cd8bf92-9c67-4a34-b351-70399fb856d0)
+- [x] [AWS Certified SysOps Administrator – Associate](https://www.credly.com/badges/4052f053-7c3c-425c-9024-75d638d43c80)
 
 ---
 
